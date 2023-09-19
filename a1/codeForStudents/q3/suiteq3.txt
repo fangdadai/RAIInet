@@ -1,0 +1,8 @@
+sample
+noCan
+length
+maxCan
+noVoter
+manyVoter
+col
+

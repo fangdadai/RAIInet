@@ -1,0 +1,10 @@
+noInput
+oneLetter
+sample
+wrongInput
+mix
+mix2
+playAgain
+long
+capital
+mix3
